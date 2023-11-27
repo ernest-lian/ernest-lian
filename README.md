@@ -2,11 +2,11 @@
 
 🎓 i am a recent Computer Science grad from the University of Waterloo
 
-💻 currently working at Shopify as a backed developer on the Online Store Editor team
+💻 currently working at Shopify as a backend developer on the Selling Strategies team!
 
 📚 really interested in data analytics & front-end development
 
-🖌️ aspiring vegetarian, LP record collector, part-time embroiderer, really like twizzlers, not a fan of hummus
+🖌️ aspiring vegetarian, LP record collector, part-time embroiderer, really like twizzlers
 
 ☕ if you'd like to chat, please reach out! ❤️
 
