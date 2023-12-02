@@ -1,6 +1,6 @@
 👋 hiya, i am ernest (he/him)! nice to e-meet you!
 
-🎓 i am a recent Computer Science grad from the University of Waterloo
+🎓 i am a Computer Science grad from the University of Waterloo
 
 💻 currently working at Shopify as a backend developer on the Selling Strategies team!
 
